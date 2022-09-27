@@ -11,4 +11,9 @@ In Day-2 , I learned about Data types ,Methamatical operations and srting manipu
 
 More info [here](Day2/README.md)
 
+## Day-3
+In Day-3 , I learned about Control Flow with if,elif else and nested statements, also I did 6 code challenges.
+
+More info [here](Day3\README.md)
+
 
