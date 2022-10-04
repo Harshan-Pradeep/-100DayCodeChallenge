@@ -16,6 +16,8 @@ In Day-3 , I learned about Control Flow with if,elif else and nested statements,
 
 More info [here](Day3/README.md)
 
+## 28/09/2022 to 3/10/2022 Didn't do any code. 
+
 ## Day-4
 In Day-4 , I learned about Random module and Python list , also I did 4 code challenges.
 
