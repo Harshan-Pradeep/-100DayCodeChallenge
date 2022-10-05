@@ -23,6 +23,10 @@ In Day-4 , I learned about Random module and Python list , also I did 4 code cha
 
 More info [here](Day4/README.md)
 
+## Day-5
+In Day-5 , I learned about python loops with list, also I did 5 code challenges.
+
+More info [here](Day5/README.md)
 
 
 
