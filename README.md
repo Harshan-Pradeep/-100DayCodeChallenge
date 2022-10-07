@@ -28,5 +28,11 @@ In Day-5 , I learned about python loops with list, also I did 5 code challenges.
 
 More info [here](Day5/README.md)
 
+## Day-6
+In Day-6 , I learned about while loop and user defined functions, also I did 3 code challenges.
+
+More info [here](Day6/README.md)
+
+
 
 
